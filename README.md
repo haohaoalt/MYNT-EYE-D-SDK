@@ -1,4 +1,21 @@
 # MYNT® EYE D SDK
+## my readme
+need lib:
+
+`opencv`
+
+`pcl >1.7.2`
+
+## installation  and run example
+
+```
+git clone https://github.com/haohaoalt/MYNT-EYE-D-SDK.git
+cd MYNT-EYE-D-SDK
+make init
+make all
+./samples/_output/bin/get_stereo_image
+
+```
 
 [![](https://img.shields.io/badge/MYNT%20EYE%20D%20SDK-v1.9.0-brightgreen.svg?style=flat)](https://github.com/slightech/MYNT-EYE-D-SDK)
 
